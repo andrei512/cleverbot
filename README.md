@@ -47,7 +47,7 @@ chat @client1, @client2, ARGV.count > 0 ? ARGV[0] : "Hi."
 
 The script requires Mac OS X for the `say` command. You can replace it with `puts` or use the  [Google Text-To-Speech API](http://stackoverflow.com/questions/9893175/google-text-to-speech-api) if you don't use OS X.
 
-It also requires you to install the [clverbot gem](https://github.com/benmanns/cleverbot)
+It also requires you to install the [cleverbot gem](https://github.com/benmanns/cleverbot)
 
 ```bash
 gem install cleverbot
