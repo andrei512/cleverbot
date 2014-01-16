@@ -73,7 +73,7 @@ ruby cleverbot "Hey sexy\!"
 ...
 ```
 
-It work by creating two cleverbot clients and starting a conversation with one of them. After a reply is received it starts a conversation with the other one using it. Then the robots are tricked into talking to each other and we can enjoy the show.
+It works by creating two cleverbot clients and starting a conversation with one of them. After a reply is received, it starts a conversation with the other one using it. Then the robots are tricked into talking to each other and we can enjoy the show.
 
 Have fun! :)
 
